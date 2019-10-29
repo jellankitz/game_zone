@@ -1,0 +1,4 @@
+#Wed Oct 30 01:06:11 PHT 2019
+base.0=/Users/chuya/development/game_tube/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
